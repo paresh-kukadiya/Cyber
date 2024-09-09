@@ -30,4 +30,5 @@ All My Write-up :<br>
   https://medium.com/@kpishear/tryhackme-owasp-juice-shop-b201365a717c <br>
   https://medium.com/@kpishear/tryhackme-writeup-hydra-6e72d60fb8e <br>
   https://medium.com/@kpishear/determine-the-type-of-attack-5dce920f7163 <br>
+  https://medium.com/@kpishear/introduction-to-sql-injection-part-1-321200da59ef <br>
   
