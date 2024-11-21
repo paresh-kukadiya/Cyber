@@ -68,7 +68,7 @@ If you're just starting out, check out these beginner-friendly rooms:
 Have questions or want to collaborate? Feel free to reach out!  
 - **Medium**: [@kpishear](https://medium.com/@kpishear)  
 - **TryHackMe Profile**: [@kpishear](https://tryhackme.com/)  
-- **GitHub**: [Your GitHub Profile](#)
+- **GitHub**: [paresh-kukadiya](https://github.com/paresh-kukadiya)
 
 ---
 
